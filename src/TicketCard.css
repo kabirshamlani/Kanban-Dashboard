@@ -1,0 +1,86 @@
+/* src/TicketCard.css */
+
+.ticket-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    background: #fafafa;
+    word-wrap: break-word;
+    transition: all 0.3s ease;
+    font-family: Arial, sans-serif;
+  }
+  
+  .ticket-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .ticket-id {
+    font-size: 12px;
+    color: #888;
+  }
+  
+  .ticket-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+  }
+  
+  .ticket-description {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 5px;
+    line-height: 1.5;
+  }
+  
+  .ticket-status-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    font-size: 12px;
+  }
+  
+  .status-label {
+    font-weight: 600;
+    color: #666;
+  }
+  
+  .status-badge {
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: 12px;
+    color: white;
+  }
+  
+  .status-to-do {
+    background-color: #305bf5 !important;
+  }
+  
+  .status-in-progress {
+    background-color: #f39c12 !important;
+  }
+  .status-in_progress {
+    background-color: #f39c12 !important;
+  }
+  
+  .status-blocked {
+    background-color: #e74c3c !important;
+  }
+  
+  .status-done {
+    background-color: #2ecc71 !important;
+  }
+  
+  .status-select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 12px;
+    width: auto;
+  }
+  
