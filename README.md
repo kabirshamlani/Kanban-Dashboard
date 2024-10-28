@@ -1,4 +1,4 @@
-```markdown
+
 # Kanban Dashboard
 
 This project is a Kanban Dashboard, designed to manage a large dataset of tickets for task tracking purposes. It visualizes tickets across multiple statuses (e.g., To Do, In Progress, Blocked, Done) and includes live transitions for real-time updates. Built with React, it demonstrates efficient handling of large datasets through lazy loading, a custom state management system with Finite State Automaton (FSA), and a user-friendly UI.
@@ -48,4 +48,4 @@ cd Kanban-Dashboard
 - The application automatically handles live ticket transitions when "Live Mode" is enabled.
 - Each status column has lazy loading for smooth scrolling with large datasets.
 - Dependencies like `@faker-js/faker` and `@reduxjs/toolkit` are installed directly in Docker to ensure smooth deployment.
-```
+
