@@ -3,7 +3,7 @@
 
 This project is a Kanban Dashboard, designed to manage a large dataset of tickets for task tracking purposes. It visualizes tickets across multiple statuses (e.g., To Do, In Progress, Blocked, Done) and includes live transitions for real-time updates. Built with React, it demonstrates efficient handling of large datasets through lazy loading, a custom state management system with Finite State Automaton (FSA), and a user-friendly UI.
 
-## Demo link - [click here] (https://672027270388b324300e02bf--gleeful-sfogliatella-296149.netlify.app/)
+## Demo link - [click here](https://672027270388b324300e02bf--gleeful-sfogliatella-296149.netlify.app/)
 
 ## Features
 
